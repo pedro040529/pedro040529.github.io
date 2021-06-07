@@ -49,14 +49,7 @@ nav{
 	background:rgba(0,0,0,0.3);
 	border-bottom: 1px solid #fff;
 
-	/*width: 70%;
-	height: 70px;
-	/*background: olive;*/
-	/*float: left;
-	text-align: right;
-	padding-top: 24px;
 
-	box-sizing: border-box;*/
 }
 nav ul li{
 	display: inline;
@@ -70,13 +63,7 @@ nav ul li a{
 	font-size: 13px;
 	font-weight: bold;
 	text-transform: uppercase;
-	/*font-size: 13px;
-	text-decoration: none;
-	text-transform: uppercase;
-	padding-left: 15px;
-	font-weight: bold;
-	letter-spacing: 1px;
-    font-family: rale;*/
+
 }
 nav ul li a:hover{
 	color: white;
@@ -119,12 +106,21 @@ p{
 .principal {
   width: 800px;
 }
-table tr td{
+ table  td{
 	padding: 7em;
 	margin: 6em;
 	overflow: hidden;
 	text-align: center;
 }
-  width: 800px;
+.ss .ssa{
+	padding: 7em;
+	margin: 6em;
+	overflow: hidden;
+	text-align: center;
 }
-
+th{
+	color: #fff;
+}
+a{
+	color: #fff;
+}
